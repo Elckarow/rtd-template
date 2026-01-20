@@ -5,3 +5,4 @@ Welcome to the TEST!
     :maxdepth: 1
 
     test
+    test2
