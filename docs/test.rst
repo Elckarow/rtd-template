@@ -10,7 +10,9 @@ Test
     Documentation for `method`.
 
     `arg` 
-        Documentation for `arg`.
+        - Documentation for `arg`.
+        - test
+        - mamaia
 
 .. function:: function(arg:int = 1)
 
